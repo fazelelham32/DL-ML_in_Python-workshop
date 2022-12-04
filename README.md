@@ -1,6 +1,7 @@
-# DL-ML_in_Python-workshop
+# DL-ML_in_Python
 
-# Machine_Learning in Python: machine learning using python language to implement different algorithms
+# Machine_Learning in Python: 
+machine learning using python language to implement different algorithms
 Using existing packages for machine learning,  Implementing our machine Learning algorithms and models
 
 Prerequisites:
